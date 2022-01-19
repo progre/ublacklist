@@ -1,0 +1,3 @@
+# Sort by domain
+*://ja.esdifferent.com/*
+*://www.ipswitch.com/jp/*
