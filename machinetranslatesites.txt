@@ -1,3 +1,4 @@
 # Sort by domain
 *://ja.esdifferent.com/*
+*://runebook.dev/*
 *://www.ipswitch.com/jp/*
