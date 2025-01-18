@@ -1,5 +1,0 @@
-# Sort by domain
-*://ja.esdifferent.com/*
-*://ja.getdocs.org/*
-*://runebook.dev/*
-*://www.ipswitch.com/jp/*

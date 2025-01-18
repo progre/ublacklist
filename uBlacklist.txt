@@ -1,0 +1,23 @@
+# Sort by domain
+
+# 機械翻訳
+*://cloudo3.com/ja/*
+*://damthoitrang.org/ja/*
+*://elsefix.com/ja/*
+*://ja.androidguias.com/*
+*://ja.esdifferent.com/*
+*://ja.getdocs.org/*
+*://ja.todoandroid.es/*
+*://jacyou.com/*
+*://mundobytes.com/ja/*
+*://runebook.dev/*
+*://tecnobits.com/ja/*
+*://wirelessize.com/ja/*
+*://www.coolmuster.com/jp/*
+*://www.ipswitch.com/jp/*
+*://www.uubyte.com/ja/*
+
+# AI 生成
+*://seikatsutech.com/*
+*://www.tunesbro.jp/*
+*://winguru.one/*
